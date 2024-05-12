@@ -15,11 +15,12 @@ body{
     justify-content: flex-start;
 }
 .firstDivButton{
-    font-size: 15px;
+    font-size: 25px;
     color: white;
     border-style: none;
     background-color: rgb(30, 30, 30);
 }
 #buttonDashboard{
+    display: flex;
     justify-self: flex-end;
 }
