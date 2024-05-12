@@ -68,8 +68,8 @@ body{
     height: 500px;
     margin: 0 auto;
     display: flex;
-    align-self: flex-start;
     color: white;
+    align-items: center;
 
 }
 .secondDivImage{
@@ -80,5 +80,6 @@ body{
     height: 500px;
     margin: 0 auto;
     display: flex;
-    align-self: flex-end;
+    align-items: center;
+
 }
