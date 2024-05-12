@@ -1,3 +1,4 @@
+const buttonsFirstDiv = document.querySelectorAll(".onMouseEnterChangeColor");
 function TShadow() {
     if (!window.location.href === "https://tumonulo.github.io/TShadow/") {
         window.location.href = "https://tumonulo.github.io/TShadow/";
@@ -20,4 +21,16 @@ function Partners() {
 }
 function Dashboard() {
 
+}
+
+buttonsFirstDiv.forEach(onMouseEnterChangeColor => {
+    onMouseEnterChangeColor.addEventListener("mouseenter", colorChangeLightBlue);
+    onMouseEnterChangeColor.addEventListener("mouseleave", colorChangeWhite);
+})
+
+function colorChangeLightBlue(event) {
+    event.target.style.color = "rgb(148, 252, 252)";
+}
+function colorChangeWhite(event) {
+    event.target.style.color = "white";
 }
