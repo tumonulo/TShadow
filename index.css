@@ -7,8 +7,6 @@ body{
     border-style: solid;
     width: 1260px;
     height: 90px;
-    align-self: center;
-    align-items: baseline;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -50,7 +48,7 @@ body{
 #Partners{
     justify-self: flex-start;
     font-size: 18px;
-    margin-right: 400px;
+    margin-right: 20px;
 
 
 }
@@ -64,16 +62,31 @@ body{
     border-color: aqua;
     border-style: solid;
     width: 1220px;
-    height: 800px;
-    align-self: center;
-    align-items: baseline;
+    height: 400px;
     margin: 0 auto;
     display: flex;
     align-items: center;
 }
 .secondDivText{
+    border: 1px;    
+    border-color: aqua;
+    border-style: solid;
+    width: auto;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    align-self: self-start;
 
 }
 .secondDivImage{
-
+    border: 1px;    
+    border-color: aqua;
+    border-style: solid;
+    width: auto;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    align-self: self-end;
 }
