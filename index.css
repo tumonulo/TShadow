@@ -32,7 +32,7 @@ body{
 }
 #Support{
     font-size: 18px;
-    margin-right: 7px;
+    margin-right: 70px;
 
 }
 #Premium{
@@ -79,7 +79,8 @@ body{
     color: white;
     align-items: center;
     margin-right: auto;
-    flex-direction: column;
+    flex-direction: column;  justify-content: center;
+
 }
 .secondDivText1{
     border: 1px;    
@@ -114,3 +115,4 @@ body{
     align-items: center;
     margin-left: auto;
 }
+
