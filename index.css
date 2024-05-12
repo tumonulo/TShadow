@@ -5,21 +5,51 @@ body{
     border: 2px;    
     border-color: aqua;
     border-style: solid;
-    width: 1275px;
+    width: 1260px;
     height: 90px;
     align-self: center;
     align-items: baseline;
     margin: 0 auto;
     display: flex;
     align-items: center;
-    justify-content: flex-start;
 }
 .firstDivButton{
     color: white;
     border-style: none;
     background-color: rgb(30, 30, 30);
 }
-#buttonDashboard{
+#TShadow{
+    justify-self: flex-start;
+    font-size: 30px;
+}
+#Invite{
+    justify-self: flex-start;
+    font-size: 10px;
+
+}
+#Commands{
+    justify-self: flex-start;
+    font-size: 10px;
+
+}
+#Support{
+    justify-self: flex-start;
+    font-size: 10px;
+
+}
+#Premium{
+    justify-self: flex-start;
+    font-size: 10px;
+
+}
+#Partners{
+    justify-self: flex-start;
+    font-size: 10px;
+
+}
+#Dashboard{
     display: flex;
     justify-self: flex-end;
+    font-size: 10px;
+
 }
