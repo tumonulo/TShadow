@@ -51,7 +51,7 @@ body{
     border: 1px;
     border-style: none;
     color: rgb(104, 175, 250);
-    width: 250px;
+    width: 300px;
     height: 60px;
     border-radius: 5px;
     background-color: rgba(1, 52, 107, 0.4);
@@ -78,6 +78,7 @@ body{
     display: flex;
     color: white;
     align-items: center;
+    margin-right: auto;
 }
 .secondDivImage{
     border: 1px;    
@@ -88,5 +89,5 @@ body{
     margin: 0 auto;
     display: flex;
     align-items: center;
-
+    margin-left: auto;
 }
