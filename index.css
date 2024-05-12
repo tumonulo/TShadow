@@ -3,7 +3,7 @@ body{
 }
 .firstDiv{
     border: 2px;    
-    color: aqua;
+    border-color: aqua;
     width: 500px;
 
 }
