@@ -5,7 +5,9 @@ body{
     border: 2px;    
     border-color: aqua;
     border-style: solid;
-    width: 500px;
-    height: 100px;
+    width: 2000px;
+    height: 90px;
+    align-self: center;
+    align-items: baseline;
 
 }
