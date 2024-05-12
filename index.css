@@ -57,3 +57,15 @@ body{
     font-size: 18px;
 
 }
+.secondDiv{
+    border: 1px;    
+    border-color: aqua;
+    border-style: solid;
+    width: 1220px;
+    height: 1500px;
+    align-self: center;
+    align-items: baseline;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
