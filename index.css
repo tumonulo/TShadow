@@ -19,36 +19,36 @@ body{
 #TShadow{
     justify-self: flex-start;
     font-size: 30px;
-    margin-right: 2px;
+    margin-right: 3px;
 }
 #Invite{
     justify-self: flex-start;
     font-size: 18px;
-    margin-right: 2px;
+    margin-right: 3px;
 
 }
 #Commands{
     justify-self: flex-start;
     font-size: 18px;
-    margin-right: 2px;
+    margin-right: 3px;
 
 }
 #Support{
     justify-self: flex-start;
     font-size: 18px;
-    margin-right: 2px;
+    margin-right: 3px;
 
 }
 #Premium{
     justify-self: flex-start;
     font-size: 18px;
-    margin-right: 2px;
+    margin-right: 3px;
 
 }
 #Partners{
     justify-self: flex-start;
     font-size: 18px;
-    margin-right: 20px;
+    margin-right: 28px;
 
 
 }
