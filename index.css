@@ -79,7 +79,7 @@ body{
     display: flex;
     color: white;
     align-items: center;
-
+    margin-right: auto;
 }
 .secondDivImage{
     border: 1px;    
@@ -90,5 +90,6 @@ body{
     margin: 0 auto;
     display: flex;
     align-items: center;
+    margin-left: auto;
 
 }
