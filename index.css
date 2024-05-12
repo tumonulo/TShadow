@@ -17,43 +17,36 @@ body{
     background-color: rgb(30, 30, 30);
 }
 #TShadow{
-    justify-self: flex-start;
-    font-size: 30px;
+   font-size: 30px;
     margin-right: 3px;
 }
 #Invite{
-    justify-self: flex-start;
     font-size: 18px;
     margin-right: 3px;
 
 }
 #Commands{
-    justify-self: flex-start;
     font-size: 18px;
     margin-right: 3px;
 
 }
 #Support{
-    justify-self: flex-start;
     font-size: 18px;
     margin-right: 3px;
 
 }
 #Premium{
-    justify-self: flex-start;
     font-size: 18px;
     margin-right: 3px;
 
 }
 #Partners{
-    justify-self: flex-start;
     font-size: 18px;
     margin-right: 28px;
 
 
 }
 #Dashboard{
-    justify-self: flex-end;
     font-size: 18px;
 
 }
@@ -62,7 +55,7 @@ body{
     border-color: aqua;
     border-style: solid;
     width: 1220px;
-    height: 400px;
+    height: 300px;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -76,7 +69,7 @@ body{
     margin: 0 auto;
     display: flex;
     align-items: center;
-    align-self: self-start;
+    align-self: flex-start;
 
 }
 .secondDivImage{
@@ -88,5 +81,5 @@ body{
     margin: 0 auto;
     display: flex;
     align-items: center;
-    align-self: self-end;
+    align-self: flex-end;
 }
