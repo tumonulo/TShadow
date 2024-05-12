@@ -53,8 +53,8 @@ function colorChangeFontWhite(event) {
     event.target.style.color = "white";
 }
 function colorChangeBackgroundBlackBlue(event) {
-    event.target.style.backgroundColor = "rgb(10, 70, 134)";
+    event.target.style.backgroundColor = "rgb(10, 70, 134 0.5)";
 }
 function colorChangeBackgorundBlue(event) {
-    event.target.style.backgroundColor = "rgb(0, 57, 118)";
+    event.target.style.backgroundColor = "rgb(0, 57, 118 0.5)";
 }
