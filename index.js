@@ -30,25 +30,31 @@ function Dashboard() {
 
 }
 
-tshadow.addEventListener("mouseenter", colorChangeLightBlue);
-tshadow.addEventListener("mouseleave", colorChangeWhite);
-invite.addEventListener("mouseenter", colorChangeLightBlue);
-invite.addEventListener("mouseleave", colorChangeWhite);
-commands.addEventListener("mouseenter", colorChangeLightBlue);
-commands.addEventListener("mouseleave", colorChangeWhite);
-support.addEventListener("mouseenter", colorChangeLightBlue);
-support.addEventListener("mouseleave", colorChangeWhite);
-premium.addEventListener("mouseenter", colorChangeLightBlue);
-premium.addEventListener("mouseleave", colorChangeWhite);
-partners.addEventListener("mouseenter", colorChangeLightBlue);
-partners.addEventListener("mouseleave", colorChangeWhite);
-dashboard.addEventListener("mouseenter", colorChangeLightBlue);
-dashboard.addEventListener("mouseleave", colorChangeWhite);
+tshadow.addEventListener("mouseenter", colorChangeFontLightBlue);
+tshadow.addEventListener("mouseleave", colorChangeFontWhite);
+invite.addEventListener("mouseenter", colorChangeFontLightBlue);
+invite.addEventListener("mouseleave", colorChangeFontWhite);
+commands.addEventListener("mouseenter", colorChangeFontLightBlue);
+commands.addEventListener("mouseleave", colorChangeFontWhite);
+support.addEventListener("mouseenter", colorChangeFontLightBlue);
+support.addEventListener("mouseleave", colorChangeFontWhite);
+premium.addEventListener("mouseenter", colorChangeFontLightBlue);
+premium.addEventListener("mouseleave", colorChangeFontWhite);
+partners.addEventListener("mouseenter", colorChangeFontLightBlue);
+partners.addEventListener("mouseleave", colorChangeFontWhite);
+dashboard.addEventListener("mouseenter", colorChangeBackgroundBlue);
+dashboard.addEventListener("mouseleave", colorChangeBackgorundLightBlue);
 
 
-function colorChangeLightBlue(event) {
+function colorChangeFontLightBlue(event) {
     event.target.style.color = "rgb(148, 252, 252)";
 }
-function colorChangeWhite(event) {
+function colorChangeFontWhite(event) {
     event.target.style.color = "white";
+}
+function colorChangeBackgroundBlue(event) {
+    event.target.style.color = "rgb(79, 162, 250)";
+}
+function colorChangeBackgorundLightBlue(event) {
+    event.target.style.color = "rgb(104, 175, 250)";
 }

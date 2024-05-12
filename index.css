@@ -48,14 +48,17 @@ body{
 }
 #Dashboard{
     font-size: 18px;
-
+    border: 1px;
+    border-style: none;
+    color: rgb(0, 123, 255);
+    background-color: rgb(104, 175, 250);
 }
 .secondDiv{
     border: 1px;    
     border-color: aqua;
     border-style: solid;
     width: 1220px;
-    height: 625px;
+    height: 627px;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -65,7 +68,7 @@ body{
     border-color: aqua;
     border-style: solid;
     width: auto;
-    height: 590px;
+    height: 625px;
     margin: 0 auto;
     display: flex;
     color: white;
@@ -77,7 +80,7 @@ body{
     border-color: aqua;
     border-style: solid;
     width: auto;
-    height: 590px;
+    height: 625px;
     margin: 0 auto;
     display: flex;
     align-items: center;
