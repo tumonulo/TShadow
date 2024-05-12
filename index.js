@@ -1,4 +1,11 @@
-const buttonsFirstDiv = document.querySelectorAll(".onMouseEnterChangeColor");
+const tshadow = document.getElementById("TShadow");
+const invite = document.getElementById("Invite");
+const commands = document.getElementById("Commands");
+const support = document.getElementById("Support");
+const premium = document.getElementById("Premium");
+const partners = document.getElementById("Partners");
+const dashboard = document.getElementById("Dashboard");
+
 function TShadow() {
     if (!window.location.href === "https://tumonulo.github.io/TShadow/") {
         window.location.href = "https://tumonulo.github.io/TShadow/";
@@ -23,10 +30,9 @@ function Dashboard() {
 
 }
 
-buttonsFirstDiv.forEach(onMouseEnterChangeColor => {
-    onMouseEnterChangeColor.addEventListener("mouseenter", colorChangeLightBlue);
-    onMouseEnterChangeColor.addEventListener("mouseleave", colorChangeWhite);
-})
+tshadow.addEventListener("mouseenter", colorChangeLightBlue);
+tshadow.addEventListener("mouseleave", colorChangeWhite);
+
 
 function colorChangeLightBlue(event) {
     event.target.style.color = "rgb(148, 252, 252)";

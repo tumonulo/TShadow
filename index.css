@@ -24,32 +24,31 @@ body{
 }
 #Invite{
     justify-self: flex-start;
-    font-size: 10px;
+    font-size: 18px;
 
 }
 #Commands{
     justify-self: flex-start;
-    font-size: 10px;
+    font-size: 18px;
 
 }
 #Support{
     justify-self: flex-start;
-    font-size: 10px;
+    font-size: 18px;
 
 }
 #Premium{
     justify-self: flex-start;
-    font-size: 10px;
+    font-size: 18px;
 
 }
 #Partners{
     justify-self: flex-start;
-    font-size: 10px;
+    font-size: 18px;
 
 }
 #Dashboard{
-    display: flex;
     justify-self: flex-end;
-    font-size: 10px;
+    font-size: 18px;
 
 }
