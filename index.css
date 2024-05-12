@@ -2,7 +2,7 @@ body{
     background-color: rgb(30, 30, 30);
 }
 .firstDiv{
-    border: 2px;    
+    border: 1px;    
     border-color: aqua;
     border-style: solid;
     width: 1260px;
