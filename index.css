@@ -67,6 +67,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+
 }
 .secondDivText{
     border: 1px;    
