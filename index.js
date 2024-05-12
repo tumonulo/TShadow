@@ -32,6 +32,18 @@ function Dashboard() {
 
 tshadow.addEventListener("mouseenter", colorChangeLightBlue);
 tshadow.addEventListener("mouseleave", colorChangeWhite);
+invite.addEventListener("mouseenter", colorChangeLightBlue);
+invite.addEventListener("mouseleave", colorChangeWhite);
+commands.addEventListener("mouseenter", colorChangeLightBlue);
+commands.addEventListener("mouseleave", colorChangeWhite);
+support.addEventListener("mouseenter", colorChangeLightBlue);
+support.addEventListener("mouseleave", colorChangeWhite);
+premium.addEventListener("mouseenter", colorChangeLightBlue);
+premium.addEventListener("mouseleave", colorChangeWhite);
+partners.addEventListener("mouseenter", colorChangeLightBlue);
+partners.addEventListener("mouseleave", colorChangeWhite);
+dashboard.addEventListener("mouseenter", colorChangeLightBlue);
+dashboard.addEventListener("mouseleave", colorChangeWhite);
 
 
 function colorChangeLightBlue(event) {
