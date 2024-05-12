@@ -4,6 +4,7 @@ body{
 .firstDiv{
     border: 2px;    
     border-color: aqua;
+    border-style: solid;
     width: 500px;
 
 }
