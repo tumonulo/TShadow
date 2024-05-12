@@ -42,7 +42,7 @@ body{
 }
 #Partners{
     font-size: 18px;
-    margin-right: 300px;
+    margin-right: 400px;
 
 
 }
@@ -51,8 +51,8 @@ body{
     border: 1px;
     border-style: none;
     color: rgb(104, 175, 250);
-    width: 130px;
-    height: 45px;
+    width: 200px;
+    height: 60px;
     border-radius: 5px;
     background-color: rgba(1, 52, 107, 0.4);
 
