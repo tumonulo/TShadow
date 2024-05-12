@@ -42,8 +42,8 @@ premium.addEventListener("mouseenter", colorChangeFontLightBlue);
 premium.addEventListener("mouseleave", colorChangeFontWhite);
 partners.addEventListener("mouseenter", colorChangeFontLightBlue);
 partners.addEventListener("mouseleave", colorChangeFontWhite);
-dashboard.addEventListener("mouseenter", colorChangeBackgroundBlue);
-dashboard.addEventListener("mouseleave", colorChangeBackgorundLightBlue);
+dashboard.addEventListener("mouseenter", colorChangeBackgroundBlackBlue);
+dashboard.addEventListener("mouseleave", colorChangeBackgorundBlue);
 
 
 function colorChangeFontLightBlue(event) {
@@ -52,9 +52,9 @@ function colorChangeFontLightBlue(event) {
 function colorChangeFontWhite(event) {
     event.target.style.color = "white";
 }
-function colorChangeBackgroundBlue(event) {
-    event.target.style.color = "rgb(79, 162, 250)";
+function colorChangeBackgroundBlackBlue(event) {
+    event.target.style.color = "rgb(10, 70, 134)";
 }
-function colorChangeBackgorundLightBlue(event) {
-    event.target.style.color = "rgb(104, 175, 250)";
+function colorChangeBackgorundBlue(event) {
+    event.target.style.color = "rgb(0, 57, 118)";
 }
