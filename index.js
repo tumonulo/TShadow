@@ -47,7 +47,7 @@ dashboard.addEventListener("mouseleave", colorChangeBackgorundBlue);
 
 
 function colorChangeFontLightBlue(event) {
-    event.target.style.color = "rgb(148, 252, 252)";
+    event.target.style.color = "rgba(1, 52, 107, 0.4)";
 }
 function colorChangeFontWhite(event) {
     event.target.style.color = "white";
