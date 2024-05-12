@@ -50,12 +50,11 @@ body{
     font-size: 20px;
     border: 1px;
     border-style: none;
-    color: rgb(0, 123, 255);
+    color: rgb(104, 175, 250);
     width: 130px;
     height: 45px;
     border-radius: 2px;
-    background-color: rgba(0, 37, 77, 0.4);
-
+    background-color: rgba(1, 52, 107, 0.4);
 
 }
 .secondDiv{
