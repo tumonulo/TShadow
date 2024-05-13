@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(30, 30, 30);
+    background-color: rgb(41, 41, 41);
 }
 .firstDiv{
     border: 1px;    
@@ -10,6 +10,10 @@ body{
     margin: 0 auto;
     display: flex;
     align-items: center;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(50, 50, 50);
+
 }
 .firstDivButton{
     color: white;
