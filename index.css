@@ -1,19 +1,19 @@
 body{
-    background-color: rgba(29, 29, 29,);
+    background-color: rgba(29, 29, 29);
 }
 .firstDiv{
     border: 1px;    
     border-color: aqua;
     border-style: solid;
     width: 1260px;
-    height: 60px;
+    height: 30px;
     margin: 0 auto;
     display: flex;
     align-items: center;
     border-radius: 12px;
     padding: 20px;
     background-color: rgb(41, 41, 41, 0.4);
-    margin-top: 25px;
+    margin-top: 20px;
 
 }
 .firstDivButton{
