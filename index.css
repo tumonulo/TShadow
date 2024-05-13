@@ -12,7 +12,7 @@ body{
     display: flex;
     align-items: center;
     border-radius: 12px;
-    background-color: rgb(58, 58, 58);
+    background-color: rgb(38, 0, 0);
     margin-top: 20px;
 
 }
@@ -24,33 +24,27 @@ body{
 #TShadow{
    font-size: 25px;
     margin-right: 9px;
-    background-color: rgb(58, 58, 58);
-}
+    background-color: transparent;}
 #Invite{
     font-size: 18px;
     margin-right: 9px;
-    background-color: rgb(58, 58, 58);
-}
+    background-color: transparent;}
 #Commands{
     font-size: 18px;
     margin-right: 9px;
-    background-color: rgb(58, 58, 58);
-}
+    background-color: transparent;}
 #Support{
     font-size: 18px;
     margin-right: 9px;
-    background-color: rgb(58, 58, 58);
-}
+    background-color: transparent;}
 #Premium{
     font-size: 18px;
     margin-right: 9px;
-    background-color: rgb(58, 58, 58);
-}
+    background-color: transparent;}
 #Partners{
     font-size: 18px;
     margin-right: 430px;
-    background-color: rgb(58, 58, 58);
-}
+    background-color: transparent;}
 #Dashboard{
     font-size: 20px;
     border: 1px;
