@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(29, 29, 29, 0.4);
+    background-color: rgba(29, 29, 29,);
 }
 .firstDiv{
     border: 1px;    
@@ -70,7 +70,6 @@ body{
     height: 629px;
     margin: 0 auto;
     display: flex;
-    align-items: start;
 
 
 }
