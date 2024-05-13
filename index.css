@@ -69,6 +69,7 @@ body{
     width: 1200px;
     height: 629px;
     margin: 0 auto;
+    display: flex;
 
 
 }
