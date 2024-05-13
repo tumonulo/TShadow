@@ -61,7 +61,7 @@ body{
     border: 1px;    
     border-color: aqua;
     border-style: solid;
-    width: 1220px;
+    width: 1200px;
     height: 629px;
     margin: 0 auto;
     display: flex;
@@ -79,7 +79,7 @@ body{
     color: white;
     align-items: center;
     margin-right: auto;
-    flex-direction: column;  justify-content: center;
+    flex-direction: column;
 
 }
 .secondDivText1{
