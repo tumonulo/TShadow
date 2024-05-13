@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(20, 0, 0);
+    background-color: rgb(25, 0, 0);
 }
 .firstDiv{
     border: 1px;    
@@ -7,7 +7,7 @@ body{
     border-style: solid;
     width: 1260px;
     height: 30px;
-    padding: 30px;
+    padding: 27px;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -84,7 +84,7 @@ body{
     color: white;
     align-items: center;
     margin-right: auto;
-    justify-content: center;
+    justify-content: start;
     flex-direction: column;
 
 }
