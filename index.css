@@ -7,6 +7,7 @@ body{
     border-style: solid;
     width: 1260px;
     height: 30px;
+    padding: 20px;
     margin: 0 auto;
     display: flex;
     align-items: center;
