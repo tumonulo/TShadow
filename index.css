@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(25, 25, 25);
+    background-color: rgb(244, 6, 6);
 }
 .firstDiv{
     border: 1px;    
@@ -12,7 +12,7 @@ body{
     display: flex;
     align-items: center;
     border-radius: 12px;
-    background-color: rgb(38, 38, 28);
+    background-color: rgb(38, 38, 38);
     margin-top: 20px;
 
 }
