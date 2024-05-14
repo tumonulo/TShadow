@@ -24,10 +24,10 @@ function Premium() {
     window.location.href = "https://patreon.com/TShadowPatreons";
 }
 function Partners() {
-    
+    window.location.href = "https://tumonulo.github.io/TShadow/partners";
 }
 function Dashboard() {
-
+    window.location.href = "https://tumonulo.github.io/TShadow/dashboard";
 }
 
 tshadow.addEventListener("mouseenter", colorChangeFontLightBlue);
