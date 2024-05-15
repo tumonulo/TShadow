@@ -63,7 +63,6 @@ body{
     width: 1200px;
     height: 629px;
     margin: 0 auto;
-    display: flex;
 
 
 }
@@ -79,6 +78,8 @@ body{
     align-items: center;
     margin-right: auto;
     flex-direction: column;
+    justify-content: center;
+
 
 }
 .secondDivText1{
