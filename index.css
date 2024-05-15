@@ -73,7 +73,6 @@ body{
     border-style: solid;
     width: auto;
     height: 627px;
-    margin: 0 auto;
     display: flex;
     color: white;
     align-items: center;
@@ -88,7 +87,6 @@ body{
     border-style: solid;
     width: auto;
     height: auto;
-    margin: 0 auto;
     display: flex;
     color: white;
     align-items: center;
@@ -100,7 +98,6 @@ body{
     border-style: solid;
     width: auto;
     height: auto;
-    margin: 0 auto;
     display: flex;
     color: white;
     align-items: center;
@@ -111,7 +108,6 @@ body{
     border-style: solid;
     width: auto;
     height: 627px;
-    margin: 0 auto;
     display: flex;
     align-items: center;
 }
