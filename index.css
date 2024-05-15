@@ -80,6 +80,7 @@ body{
     align-items: center;
     margin-right: auto;
     flex-direction: column;
+    justify-content: center;
 
 
 }
