@@ -77,7 +77,6 @@ body{
     display: flex;
     color: white;
     align-items: center;
-    margin-right: auto;
     flex-direction: column;
     justify-content: center;
 
@@ -115,6 +114,5 @@ body{
     margin: 0 auto;
     display: flex;
     align-items: center;
-    margin-left: auto;
 }
 
