@@ -24,27 +24,38 @@ body{
 #TShadow{
    font-size: 25px;
     margin-right: 9px;
-    background-color: transparent;}
+    background-color: transparent;
+    font-family: "Verona", sans-serif;
+}
 #Invite{
     font-size: 18px;
     margin-right: 9px;
-    background-color: transparent;}
+    background-color: transparent;
+    font-family: "Verona", sans-serif;
+}
 #Commands{
     font-size: 18px;
     margin-right: 9px;
-    background-color: transparent;}
+    background-color: transparent;
+    font-family: "Verona", sans-serif;
+}
 #Support{
     font-size: 18px;
     margin-right: 9px;
-    background-color: transparent;}
+    background-color: transparent;
+    font-family: "Verona", sans-serif;}
 #Premium{
     font-size: 18px;
     margin-right: 9px;
-    background-color: transparent;}
+    background-color: transparent;
+    font-family: "Verona", sans-serif;
+}
 #Partners{
     font-size: 18px;
     margin-right: 430px;
-    background-color: transparent;}
+    background-color: transparent;
+    font-family: "Verona", sans-serif;
+}
 #Dashboard{
     font-size: 20px;
     border: 1px;
@@ -54,7 +65,7 @@ body{
     height: 60px;
     border-radius: 5px;
     background-color: rgba(1, 52, 107, 0.4);
-
+    font-family: "Verona", sans-serif;
 }
 .secondDiv{
     border: 1px;    
@@ -78,6 +89,8 @@ body{
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    font-size: 100px;
+
 
 
 }
@@ -91,6 +104,7 @@ body{
     color: white;
     align-items: center;
     flex-direction: column;
+    font-family: "Blogger Sans", sans-serif;
 }
 .secondDivText2{
     border: 1px;    
@@ -101,6 +115,7 @@ body{
     display: flex;
     color: white;
     align-items: center;
+    font-family: "Merriweather", sans-serif;
 }
 .secondDivImage{
     border: 1px;    
