@@ -82,7 +82,7 @@ body{
     border: 1px;    
     border-color: aqua;
     border-style: solid;
-    width: 200px;
+    width: auto;
     height: 627px;
     display: flex;
     color: white;
@@ -128,6 +128,6 @@ body{
     height: 627px;
     display: flex;
     align-items: center;
-    margin-left: 700px;
+    margin-left: 600px;
 }
 
