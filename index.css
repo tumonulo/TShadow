@@ -103,11 +103,9 @@ body{
     color: white;
     align-items: center;
     flex-direction: column;
-    font-family: "Blogger Sans", sans-serif;
-    font-size: 40px;
 
 }
-.secondDivText2{
+.secondDivText11{
     border: 1px;    
     border-color: aqua;
     border-style: solid;
@@ -115,9 +113,26 @@ body{
     height: auto;
     display: flex;
     color: white;
-    align-items: center;
+    font-family: "Blogger Sans", sans-serif;
+    font-size: 40px;
+}
+.secondDivText12{
+    border: 1px;    
+    border-color: aqua;
+    border-style: solid;
+    width: auto;
+    height: auto;
+    display: flex;
+    color: white;
     font-family: "Merriweather", sans-serif;
     font-size: 15px;
+}
+.secondDivText2{
+    border: 1px;    
+    border-color: aqua;
+    border-style: solid;
+    width: auto;
+    height: auto;
 
 }
 .secondDivImage{
