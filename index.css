@@ -3,9 +3,6 @@ body{
     padding: 0;
 }
 .firstDiv{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
     width: 100%;
     height: 60px;
     display: flex;
@@ -14,22 +11,8 @@ body{
     background-color: rgb(38, 38, 38);
 
 }
-.firstDiv1{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
-
-}
 .firstDiv2{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
     font-size: 8px;
-}
-.firstDiv3{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
 }
 .firstDivButton{
     color: white;
@@ -111,9 +94,6 @@ body{
     height: auto;
 }
 .secondDiv{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
     width: 100%;
     height: 629px;
     margin: 0 auto;
@@ -124,9 +104,6 @@ body{
 
 }
 .secondDivText{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
     width: auto;
     height: 627px;
     display: flex;
@@ -139,9 +116,6 @@ body{
 
 }
 .secondDivText1{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
     width: auto;
     height: auto;
     display: flex;
@@ -151,9 +125,6 @@ body{
 
 }
 .secondDivText11{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
     width: auto;
     height: auto;
     display: flex;
@@ -162,9 +133,6 @@ body{
     font-size: 40px;
 }
 .secondDivText12{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
     width: auto;
     height: auto;
     display: flex;
@@ -173,17 +141,11 @@ body{
     font-size: 15px;
 }
 .secondDivText2{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
     width: auto;
     height: auto;
 
 }
 .secondDivImage{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
     width: auto;
     height: 627px;
     display: flex;
@@ -191,9 +153,6 @@ body{
     margin-left: 600px;
 }
 .lastDiv{
-    border: 1px;    
-    border-color: aqua;
-    border-style: solid;
     width: 100%;
     height: 200px;
     background-color: rgb(38, 38, 38);
