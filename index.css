@@ -2,7 +2,7 @@
     border: 1px;    
     border-color: aqua;
     border-style: solid;
-    width: 100vw;
+    width: 100%;
     height: 60px;
     display: flex;
     align-items: center;
