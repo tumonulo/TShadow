@@ -20,6 +20,7 @@
     border: 1px;    
     border-color: aqua;
     border-style: solid;
+    font-size: 8px;
 }
 .firstDiv3{
     border: 1px;    
@@ -38,37 +39,31 @@
     font-family: "Verona", sans-serif;
 }
 #Features{
-    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Invite{
-    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Premium{
-    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Commands{
-    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Support{
-    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Partenrs{
-    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
@@ -80,7 +75,6 @@
      font-family: "Verona", sans-serif;
  }
  #AboutUs{
-    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
