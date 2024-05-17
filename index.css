@@ -3,6 +3,7 @@ body{
     padding: 0;
 }
 .firstDiv{
+    position: fixed;
     width: 100%;
     height: 60px;
     display: flex;
@@ -25,42 +26,34 @@ body{
     font-family: "Verona", sans-serif;
 }
 #Features{
-     margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Invite{
-     margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Premium{
-     margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Commands{
-     margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Support{
-     margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Partenrs{
-     margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #FAQ{
-     margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #AboutUs{
-     margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
