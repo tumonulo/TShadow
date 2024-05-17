@@ -8,7 +8,7 @@ body{
     height: 60px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     background-color: rgb(38, 38, 38);
 
 }
