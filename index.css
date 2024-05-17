@@ -38,49 +38,49 @@
     font-family: "Verona", sans-serif;
 }
 #Features{
-    font-size: 25px;
+    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Invite{
-    font-size: 25px;
+    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Premium{
-    font-size: 25px;
+    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Commands{
-    font-size: 25px;
+    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Support{
-    font-size: 25px;
+    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #Partenrs{
-    font-size: 25px;
+    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #FAQ{
-    font-size: 25px;
+    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
  #AboutUs{
-    font-size: 25px;
+    font-size: 8px;
      margin-right: 9px;
      background-color: transparent;
      font-family: "Verona", sans-serif;
@@ -125,6 +125,8 @@
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    background-color: rgb(38, 38, 38);
+
 }
 .secondDivText{
     border: 1px;    
