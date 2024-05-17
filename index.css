@@ -6,7 +6,7 @@ body{
     border: 1px;    
     border-color: aqua;
     border-style: solid;
-    width: 100%;
+    width: 100vw;
     height: 60px;
     display: flex;
     align-items: center;
