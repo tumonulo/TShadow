@@ -2,7 +2,7 @@
     border: 1px;    
     border-color: aqua;
     border-style: solid;
-    width: 100%;
+    width: 100vw;
     height: 60px;
     display: flex;
     align-items: center;
@@ -104,14 +104,14 @@
 }
 .principaldiv{
     background-color: rgba(15, 15, 15);
-    width: 100%;
+    width: 100vw;
     height: auto;
 }
 .secondDiv{
     border: 1px;    
     border-color: aqua;
     border-style: solid;
-    width: 100%;
+    width: 100vw;
     height: 629px;
     margin: 0 auto;
     display: flex;
@@ -187,11 +187,11 @@
     align-items: center;
     margin-left: 600px;
 }
-.lastzDiv{
+.lastDiv{
     border: 1px;    
     border-color: aqua;
     border-style: solid;
-    width: 100%;
+    width: 100vw;
     height: 200px;
     background-color: rgb(38, 38, 38);
 }
