@@ -34,7 +34,6 @@
 }
 #TShadow{
    font-size: 25px;
-    margin-right: 9px;
     background-color: transparent;
     font-family: "Verona", sans-serif;
 }
@@ -78,7 +77,12 @@
      background-color: transparent;
      font-family: "Verona", sans-serif;
  }
- #Mode{
+#Partners{
+    font-size: 18px;
+    background-color: transparent;
+    font-family: "Verona", sans-serif;
+}
+#Mode{
     font-size: 18px;
     background-color: transparent;
     font-family: "Verona", sans-serif;
@@ -86,11 +90,6 @@
     background-size: cover;
     background-repeat: no-repeat;
     padding: 10px;
-}
-#Partners{
-    font-size: 18px;
-    background-color: transparent;
-    font-family: "Verona", sans-serif;
 }
 #Dashboard{
     font-size: 20px;
@@ -112,7 +111,7 @@
     border: 1px;    
     border-color: aqua;
     border-style: solid;
-    width: 1200px;
+    width: 100%;
     height: 629px;
     margin: 0 auto;
     display: flex;
