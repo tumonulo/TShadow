@@ -191,6 +191,7 @@ font-size: 20px;
 #image{
     width: 350px;
     transition: transform 0.5s;
+    animation-fill-mode: forwards;
     z-index: 1;
 }
 #image:hover {
@@ -199,9 +200,11 @@ font-size: 20px;
 @keyframes imager {
     from {
         transform: rotateY(0deg);
+        backface-visibility: visible;
     }
     to {
         transform: rotateY(360deg);
+        backface-visibility: hidden;
     }
 }
 .features{
