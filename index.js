@@ -4,7 +4,7 @@ function TShadow() {
     }
 }
 function invitethebot() {
-    window.location.href = "https://discord.com/oauth2/authorize?client_id=1226276748677873675&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Fchannels%2F%40me%2F1226292854624751699&scope=bot";
+    window.location.href = "https://discord.com/oauth2/authorize?client_id=1226276748677873675&permissions=593184375570423&scope=bot";
 }
 function supportserver() {
     window.location.href = "https://discord.gg/HGZTRa3TMf";
