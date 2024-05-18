@@ -104,7 +104,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background: linear-gradient(rgb(18, 20, 22), rgb(49, 54, 59));
+    background: linear-gradient(rgb(14, 16, 18), rgb(49, 54, 59));
 }
 .secondDivText{
     width: auto;
