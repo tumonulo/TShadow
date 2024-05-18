@@ -15,7 +15,11 @@ body{
 
 }
 .firstDiv2{
-    font-size: 15px;
+    font-size: 18px;
+    margin-right: 10px;
+}
+.firstDiv3{
+    margin-right: 10px;
 }
 .firstDivButton{
     color: white;
@@ -64,13 +68,10 @@ body{
     background-color: transparent;
     font-family: "Verdana", sans-serif;
     background-image: url('https://media.discordapp.net/attachments/1231284885415526461/1241110079193743432/images__4_-removebg-preview.png?ex=66490155&is=6647afd5&hm=0b5c49541d662e5b700e784a378a35d470d6c7b792f1870b53ff9d9a87e4565e&=&format=webp&quality=lossless&width=202&height=202');
-
-    
 }
 #Dashboard{
     font-size: 20px;
-    border: 1px;
-    color: rgb(104, 175, 250);
+    border-radius: 10px;
     width: 270px;
     height: 60px;
     background-color: rgba(1, 52, 107, 0.4);
