@@ -26,51 +26,53 @@ body{
 #TShadow{
    font-size: 25px;
     background-color: transparent;
-    font-family: "Verona", sans-serif;
+    font-family: "Verdana", sans-serif;
 }
 #Features{
      background-color: transparent;
-     font-family: "Verona", sans-serif;
+     font-family: "Verdana", sans-serif;
  }
  #Invite{
      background-color: transparent;
-     font-family: "Verona", sans-serif;
+     font-family: "Verdana", sans-serif;
  }
  #Premium{
      background-color: transparent;
-     font-family: "Verona", sans-serif;
+     font-family: "Verdana", sans-serif;
  }
  #Commands{
      background-color: transparent;
-     font-family: "Verona", sans-serif;
+     font-family: "Verdana", sans-serif;
  }
  #Support{
      background-color: transparent;
-     font-family: "Verona", sans-serif;
+     font-family: "Verdana", sans-serif;
  }
  #Partenrs{
      background-color: transparent;
-     font-family: "Verona", sans-serif;
+     font-family: "Verdana", sans-serif;
  }
  #FAQ{
      background-color: transparent;
-     font-family: "Verona", sans-serif;
+     font-family: "Verdana", sans-serif;
  }
  #AboutUs{
      background-color: transparent;
-     font-family: "Verona", sans-serif;
+     font-family: "Verdana", sans-serif;
  }
 #Partners{
     background-color: transparent;
-    font-family: "Verona", sans-serif;
+    font-family: "Verdana", sans-serif;
 }
 #Mode{
     font-size: 20x;
     background-color: transparent;
-    font-family: "Verona", sans-serif;
+    font-family: "Verdana", sans-serif;
     background-image: url('https://media.discordapp.net/attachments/1231284885415526461/1241110079193743432/images__4_-removebg-preview.png?ex=66490155&is=6647afd5&hm=0b5c49541d662e5b700e784a378a35d470d6c7b792f1870b53ff9d9a87e4565e&=&format=webp&quality=lossless&width=202&height=202');
     background-size: cover;
     background-repeat: no-repeat;
+    float: left;
+    margin-right: 20px; 
 }
 #Dashboard{
     font-size: 20px;
@@ -79,8 +81,7 @@ body{
     width: 270px;
     height: 60px;
     background-color: rgba(1, 52, 107, 0.4);
-    font-family: "Verona", sans-serif;
-    margin-left: 50px;
+    font-family: "Verdana", sans-serif;
 }
 .principaldiv{
     background-color: rgba(15, 15, 15);
