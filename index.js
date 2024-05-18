@@ -1,10 +1,10 @@
 const image = document.getElementById('image');
-let animacionActiva = false;
+let activeanimationimage = false;
 
 image.addEventListener('mouseenter', () => {
-    if (!animacionActiva) {
-        image.style.animationPlayState = 'running';
-        animacionActiva = true;
+    if (!activeanimationimage) {
+        image.style.animation = 'running';
+        activeanimationimage = true;
     }
 });
 
