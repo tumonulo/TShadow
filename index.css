@@ -108,7 +108,7 @@ body{
     align-items: flex-start;
     flex-direction: column;
     justify-content: center;
-    margin-left: 19vw;
+    margin-left: 12vw;
 
 
 }
@@ -185,7 +185,7 @@ font-size: 20px;
     height: 627px;
     display: flex;
     align-items: center;
-    margin-left: 15vw;
+    margin-left: 12vw;
     perspective: 1000px;
 }
 #image{
