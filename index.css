@@ -9,7 +9,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background: linear-gradient(rgb(24, 28, 30), rgb(49, 54, 59));
+    background-color: rgb(24, 28, 30);
     z-index: 2;
 
 }
@@ -104,7 +104,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background-color: rgb(24, 28, 30);
+    background: linear-gradient(rgb(24, 28, 30), rgb(49, 54, 59));
 }
 .secondDivText{
     width: auto;
