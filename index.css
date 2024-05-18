@@ -167,6 +167,7 @@ body{
 #invitethebot:hover{
 background-color: white;
 color: rgb(35, 40, 43);
+transition-property: all;
 transition-duration: 0.3s;
 }
 #supportserver{
@@ -184,6 +185,7 @@ font-size: 16px;
 #supportserver:hover{
     background-color: white;
     color: rgb(2, 77, 151);
+    transition-property: all;
     transition-duration: 0.3s;
 }
 .secondDivImage{
