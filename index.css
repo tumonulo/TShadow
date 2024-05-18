@@ -135,7 +135,8 @@ body{
     font-family: "Merriweather", sans-serif;
     font-size: 19px;
     margin-top: 11px;
-
+    display: flex;
+    justify-content: start;
 }
 .secondDivText2{
     width: auto;
