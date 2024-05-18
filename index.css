@@ -9,7 +9,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(25, 28, 30);
 
 }
 .firstDiv2{
@@ -20,7 +20,7 @@ body{
 .firstDivButton{
     color: white;
     border-style: none;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(25, 28, 30);
 }
 #TShadow{
    font-size: 25px;
