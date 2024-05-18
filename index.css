@@ -176,8 +176,8 @@ color: white;
 font-size: 20px;
 }
 #supportserver:hover{
-    background-color: white;
-    color: rgb(2, 77, 151);
+    background-color: rgb(2, 77, 151);
+    color: white;
 }
 .secondDivImage{
     width: auto;
