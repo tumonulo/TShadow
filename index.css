@@ -14,6 +14,8 @@ body{
 }
 .firstDiv2{
     font-size: 18px;
+    max-width: 30%;
+    flex: 1;
 }
 .firstDivButton{
     color: white;
@@ -28,42 +30,42 @@ body{
 #Home{
     background-color: transparent;
     font-family: "Verdana", sans-serif;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 #Features{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
-     margin-right: 10px;
+     margin-right: 20px;
  }
  #Invite{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
-     margin-right: 10px;
+     margin-right: 20px;
  }
  #Premium{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
-     margin-right: 10px;
+     margin-right: 20px;
  }
  #Commands{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
-     margin-right: 10px;
+     margin-right: 20px;
  }
  #Partners{
     background-color: transparent;
     font-family: "Verdana", sans-serif;
-    margin-right: 10px;
+    margin-right: 20px;
 }
  #Support{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
-     margin-right: 10px;
+     margin-right: 20px;
  }
  #FAQ{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
-     margin-right: 10px;
+     margin-right: 20px;
  }
  #AboutUs{
      background-color: transparent;
@@ -91,7 +93,7 @@ body{
 }
 .secondDiv{
     width: 100%;
-    height: 629px;
+    height: 700px;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -168,19 +170,19 @@ body{
 .commands{
     width: 100%;
     height: 200px;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(67, 75, 81);
     color: white;
 }
 .partners{
     width: 100%;
     height: 200px;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(49, 54, 59);
     color: white;
 }
 .support{
     width: 100%;
     height: 200px;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(67, 75, 81);
     color: white;
 }
 .FAQ{
@@ -190,6 +192,12 @@ body{
     color: white;
 }
 .aboutus{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(49, 54, 59);
+    color: white;
+}
+.lastDiv{
     width: 100%;
     height: 200px;
     background-color: rgb(35, 40, 43);
