@@ -202,7 +202,7 @@ font-size: 20px;
         backface-visibility: visible;
     }
     to {
-        transform: rotateY(360deg);
+        transform: rotateY(180deg);
         backface-visibility: hidden;
     }
 }
