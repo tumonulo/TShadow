@@ -1,17 +1,3 @@
-const image = document.getElementById('image');
-let activeanimationimage = false;
-
-image.addEventListener('mouseenter', () => {
-    if (activeanimationimage === false) {
-        image.style.animation = 'running';
-        activeanimationimage = true;
-    }
-});
-
-image.addEventListener('animationend', () => {
-    animacionActiva = false;
-});
-
 function TShadow() {
     if (!window.location.href === "https://tumonulo.github.io/TShadow/") {
         window.location.href = "https://tumonulo.github.io/TShadow/";
