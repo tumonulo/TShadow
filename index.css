@@ -9,7 +9,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(24, 28, 30);
 
 }
 .firstDiv2{
@@ -18,7 +18,7 @@ body{
 .firstDivButton{
     color: white;
     border-style: none;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(24, 28, 30);
 }
 #TShadow{
    font-size: 25px;
@@ -97,16 +97,16 @@ body{
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(24, 28, 30);
 }
 .secondDivText{
     width: auto;
     height: 627px;
     display: flex;
     color: white;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: column;
-    justify-content: start;
+    justify-content: center;
     margin-left: 180px;
 
 
@@ -134,13 +134,13 @@ body{
     display: flex;
     color: white;
     font-family: "Merriweather", sans-serif;
-    font-size: 25px;
-    margin-top: 8px;
+    font-size: 27px;
+    margin-top: 11px;
 }
 .secondDivText2{
     width: auto;
     height: auto;
-    margin-top: 8px;
+    margin-top: 11px;
 
 }
 #invitethebot{
@@ -154,6 +154,7 @@ body{
     background-color: rgb(2, 77, 151);
     color: white;
     font-size: 20px;
+    margin-right: 15px;
 }
 #supportserver{
 border: 3px;
@@ -189,7 +190,7 @@ font-size: 20px;
 .premium{
     width: 100%;
     height: 200px;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(24, 28, 30);
     color: white;
 }
 .commands{
@@ -213,7 +214,7 @@ font-size: 20px;
 .FAQ{
     width: 100%;
     height: 200px;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(24, 28, 30);
     color: white;
 }
 .aboutus{
@@ -225,6 +226,6 @@ font-size: 20px;
 .lastDiv{
     width: 100%;
     height: 200px;
-    background-color: rgb(35, 40, 43);
+    background-color: rgb(24, 28, 30);
     color: white;
 }
