@@ -189,19 +189,22 @@ font-size: 20px;
 }
 #image{
     width: 350px;
-    transition: transform 0.5s;
+    transition: transform 0.5s ease-in infinite;
     animation-fill-mode: forwards;
     z-index: 1;
 }
 #image:hover {
-    animation: imager 0.5s forwards;
+    animation: running 0.5s forwards;
 }
-@keyframes imager {
+@keyframes running {
     from {
         transform: rotateY(0deg);
+        animation-fill-mode: forwards;
     }
     to {
         transform: rotateY(180deg);
+        animation-fill-mode: forwards;
+
     }
 }
 .features{
