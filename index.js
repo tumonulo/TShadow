@@ -22,7 +22,7 @@ elementsupportserver.addEventListener("mouseenter", elementsupportserverenter);
 elementsupportserver.addEventListener("mouseleave", elementsupportserverleave);
 
 function elementinvitethebotenter() {
-    elementinvitethebot.style.backgroundColor = "white";
+    elementinvitethebot.style.backgroundColor = "rgb(35, 40, 43)";
     elementinvitethebot.style.color = "transparent";
 }
 function elementinvitethebotleave() {
