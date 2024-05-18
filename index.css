@@ -163,12 +163,12 @@ body{
     font-size: 16px;
     margin-right: 15px;
     margin-left: 3px;
+    transition-property: all 0.3s;
 }
 #invitethebot:hover{
 background-color: white;
 color: rgb(35, 40, 43);
-transition-property: all;
-transition-duration: 0.3s;
+transition-property: all 0.3s;
 }
 #supportserver{
 border: 2px;
@@ -181,12 +181,13 @@ width: 200px;
 background-color: transparent;
 color: white;
 font-size: 16px;
+transition-property: all 0.3s;
 }
 #supportserver:hover{
     background-color: white;
     color: rgb(2, 77, 151);
     transition-property: all;
-    transition-duration: 0.3s;
+    transition-property: all 0.3s;
 }
 .secondDivImage{
     width: auto;
