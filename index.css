@@ -3,8 +3,6 @@ body{
     padding: 0;
 }
 .firstDiv{
-
-    
     position: fixed;
     width: 100%;
     height: 88px;
@@ -152,54 +150,48 @@ body{
 .features{
     width: 100%;
     height: 200px;
-    background-color: rgb(38, 38, 38); 
+    background-color: rgb(47, 52, 56);
     color: white;
 }
 .invite{
     width: 100%;
     height: 200px;
-    background-color: rgb(38, 38, 38); 
+    background-color: rgb(79, 89, 96);
     color: white;
 }
 .premium{
     width: 100%;
     height: 200px;
-    background-color: rgb(38, 38, 38); 
-    color: white;
-}
-.features{
-    width: 100%;
-    height: 200px;
-    background-color: rgb(38, 38, 38); 
+    background-color: rgb(25, 28, 30);
     color: white;
 }
 .commands{
     width: 100%;
     height: 200px;
-    background-color: rgb(38, 38, 38); 
+    background-color: rgb(25, 28, 30);
     color: white;
 }
 .partners{
     width: 100%;
     height: 200px;
-    background-color: rgb(38, 38, 38); 
+    background-color: rgb(25, 28, 30);
     color: white;
 }
 .support{
     width: 100%;
     height: 200px;
-    background-color: rgb(38, 38, 38); 
+    background-color: rgb(25, 28, 30);
     color: white;
 }
 .FAQ{
     width: 100%;
     height: 200px;
-    background-color: rgb(38, 38, 38); 
+    background-color: rgb(25, 28, 30);
     color: white;
 }
 .aboutus{
     width: 100%;
     height: 200px;
-    background-color: rgb(38, 38, 38);
+    background-color: rgb(25, 28, 30);
     color: white;
 }
