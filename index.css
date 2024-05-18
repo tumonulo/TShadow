@@ -124,7 +124,6 @@ body{
 .secondDivText11{
     width: auto;
     height: auto;
-    display: flex;
     color: white;
     font-family: "Blogger Sans", sans-serif;
     font-size: 50px;
@@ -132,7 +131,6 @@ body{
 .secondDivText12{
     width: auto;
     height: auto;
-    display: flex;
     color: white;
     font-family: "Merriweather", sans-serif;
     font-size: 19px;
