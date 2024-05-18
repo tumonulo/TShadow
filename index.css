@@ -14,8 +14,6 @@ body{
 }
 .firstDiv2{
     font-size: 18px;
-    max-width: 30%;
-    flex: 1;
 }
 .firstDivButton{
     color: white;
