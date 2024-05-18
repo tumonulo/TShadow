@@ -16,9 +16,7 @@ body{
 }
 .firstDiv2{
     font-size: 18px;
-    padding: 0 10px;}
-.firstDiv3{
-    padding: 0 10px;}
+}
 .firstDivButton{
     color: white;
     border-style: none;
@@ -29,33 +27,45 @@ body{
     background-color: transparent;
     font-family: "Verdana", sans-serif;
 }
+#Home{
+    background-color: transparent;
+    font-family: "Verdana", sans-serif;
+    margin-right: 10px;
+}
 #Features{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
+     margin-right: 10px;
  }
  #Invite{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
+     margin-right: 10px;
  }
  #Premium{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
+     margin-right: 10px;
  }
  #Commands{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
+     margin-right: 10px;
  }
  #Partners{
     background-color: transparent;
     font-family: "Verdana", sans-serif;
+    margin-right: 10px;
 }
  #Support{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
+     margin-right: 10px;
  }
  #FAQ{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
+     margin-right: 10px;
  }
  #AboutUs{
      background-color: transparent;
@@ -66,6 +76,7 @@ body{
     background-color: transparent;
     font-family: "Verdana", sans-serif;
     background-image: url('https://media.discordapp.net/attachments/1231284885415526461/1241110079193743432/images__4_-removebg-preview.png?ex=66490155&is=6647afd5&hm=0b5c49541d662e5b700e784a378a35d470d6c7b792f1870b53ff9d9a87e4565e&=&format=webp&quality=lossless&width=202&height=202');
+    margin-right: 10px;
 }
 #Dashboard{
     font-size: 20px;
