@@ -199,7 +199,6 @@ font-size: 20px;
 @keyframes running {
     from {
         transform: rotateY(0deg);
-        animation-fill-mode: forwards;
     }
     to {
         transform: rotateY(180deg);
