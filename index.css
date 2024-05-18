@@ -145,7 +145,47 @@ body{
     align-items: center;
     margin-left: 600px;
 }
-.lastDiv{
+.features{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(38, 38, 38); 
+}
+.invite{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(38, 38, 38); 
+}
+.premium{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(38, 38, 38); 
+}
+.features{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(38, 38, 38); 
+}
+.commands{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(38, 38, 38); 
+}
+.support{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(38, 38, 38); 
+}
+.partners{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(38, 38, 38); 
+}
+.FAQ{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(38, 38, 38); 
+}
+.aboutus{
     width: 100%;
     height: 200px;
     background-color: rgb(38, 38, 38);
