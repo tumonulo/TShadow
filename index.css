@@ -44,11 +44,11 @@ body{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
  }
- #Support{
-     background-color: transparent;
-     font-family: "Verdana", sans-serif;
- }
  #Partenrs{
+    background-color: transparent;
+    font-family: "Verdana", sans-serif;
+}
+ #Support{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
  }
@@ -60,10 +60,6 @@ body{
      background-color: transparent;
      font-family: "Verdana", sans-serif;
  }
-#Partners{
-    background-color: transparent;
-    font-family: "Verdana", sans-serif;
-}
 #Mode{
     font-size: 20x;
     background-color: transparent;
@@ -176,13 +172,13 @@ body{
     background-color: rgb(38, 38, 38); 
     color: white;
 }
-.support{
+.partners{
     width: 100%;
     height: 200px;
     background-color: rgb(38, 38, 38); 
     color: white;
 }
-.partners{
+.support{
     width: 100%;
     height: 200px;
     background-color: rgb(38, 38, 38); 
