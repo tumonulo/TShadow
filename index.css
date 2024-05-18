@@ -133,7 +133,7 @@ body{
     height: auto;
     color: white;
     font-family: "Merriweather", sans-serif;
-    font-size: 23px;
+    font-size: 21px;
     margin-top: 22px;
     display: flex;
     justify-content: start;
@@ -154,7 +154,7 @@ body{
     width: 200px;
     background-color: rgb(2, 77, 151);
     color: white;
-    font-size: 20px;
+    font-size: 13px;
     margin-right: 15px;
     margin-left: 3px;
 }
@@ -172,7 +172,7 @@ height: auto;
 width: 200px;
 background-color: transparent;
 color: white;
-font-size: 20px;
+font-size: 13px;
 }
 #supportserver:hover{
     background-color: white;
