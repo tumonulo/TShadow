@@ -2,7 +2,7 @@ const image = document.getElementById('image');
 let activeanimationimage = false;
 
 image.addEventListener('mouseenter', () => {
-    if (!activeanimationimage) {
+    if (activeanimationimage === false) {
         image.style.animation = 'running';
         activeanimationimage = true;
     }

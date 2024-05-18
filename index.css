@@ -191,7 +191,6 @@ font-size: 13px;
     align-items: center;
     margin-left: 12vw;
     perspective: 1000px;
-    transform-style: preserve-3d;
 }
 #image{
     width: 350px;
@@ -208,8 +207,6 @@ font-size: 13px;
     }
     to {
         transform: rotateY(180deg);
-        animation-fill-mode: forwards;
-
     }
 }
 .features{
