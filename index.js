@@ -1,6 +1,3 @@
-const elementinvitethebot = document.getElementById("invitethebot");
-const elementsupportserver = document.getElementById("supportserver");
-
 function TShadow() {
     if (!window.location.href === "https://tumonulo.github.io/TShadow/") {
         window.location.href = "https://tumonulo.github.io/TShadow/";
@@ -14,26 +11,4 @@ function supportserver() {
 }
 function Dashboard() {
     window.location.href = "https://tumonulo.github.io/TShadow/dashboard";
-}
-
-elementinvitethebot.addEventListener("mouseenter", elementinvitethebotenter);
-elementinvitethebot.addEventListener("mouseleave", elementinvitethebotleave);
-elementsupportserver.addEventListener("mouseenter", elementsupportserverenter);
-elementsupportserver.addEventListener("mouseleave", elementsupportserverleave);
-
-function elementinvitethebotenter() {
-    elementinvitethebot.style.backgroundColor = "white";
-    elementinvitethebot.style.color = "rgb(35, 40, 43)";
-}
-function elementinvitethebotleave() {
-    elementinvitethebot.style.backgroundColor = "rgb(2, 77, 151)";
-    elementinvitethebot.style.color = "white";
-}
-function elementsupportserverenter() {
-    elementsupportserver.style.backgroundColor = "white";
-    elementsupportserver.style.color = "rgb(2, 77, 151)";
-}
-function elementsupportserverleave() {
-    elementsupportserver.style.backgroundColor = "transparent";
-    elementsupportserver.style.color = "white";
 }
