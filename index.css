@@ -13,9 +13,6 @@ body{
     z-index: 2;
 
 }
-.firstDiv2{
-    font-size: 22px;
-}
 .firstDivButton{
     color: white;
     border-style: none;
@@ -27,46 +24,55 @@ body{
     font-family: "Verdana", sans-serif;
 }
 #Home{
+    font-size: 15px;
     background-color: transparent;
     font-family: "Verdana", sans-serif;
     margin-right: 20px;
 }
 #Features{
+    font-size: 15px;
      background-color: transparent;
      font-family: "Verdana", sans-serif;
      margin-right: 20px;
  }
  #Invite{
+    font-size: 15px;
      background-color: transparent;
      font-family: "Verdana", sans-serif;
      margin-right: 20px;
  }
  #Premium{
+    font-size: 15px;
      background-color: transparent;
      font-family: "Verdana", sans-serif;
      margin-right: 20px;
  }
  #Commands{
+    font-size: 15px;
      background-color: transparent;
      font-family: "Verdana", sans-serif;
      margin-right: 20px;
  }
  #Partners{
+    font-size: 15px;
     background-color: transparent;
     font-family: "Verdana", sans-serif;
     margin-right: 20px;
 }
  #Support{
+    font-size: 15px;
      background-color: transparent;
      font-family: "Verdana", sans-serif;
      margin-right: 20px;
  }
  #FAQ{
+    font-size: 15px;
      background-color: transparent;
      font-family: "Verdana", sans-serif;
      margin-right: 20px;
  }
  #AboutUs{
+    font-size: 15px;
      background-color: transparent;
      font-family: "Verdana", sans-serif;
  }
