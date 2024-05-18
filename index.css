@@ -13,7 +13,7 @@ body{
 
 }
 .firstDiv2{
-    font-size: 18px;
+    font-size: 22px;
 }
 .firstDivButton{
     color: white;
@@ -150,7 +150,7 @@ body{
     border-radius: 10px;
     padding: 13px;
     height: auto;
-    width: 70px;
+    width: 160px;
     background-color: rgb(2, 77, 151);
     color: white;
     font-size: 20px;
@@ -167,7 +167,7 @@ border-style: solid;
 border-radius: 10px;
 padding: 13px;
 height: auto;
-width: 70px;
+width: 160px;
 background-color: transparent;
 color: white;
 font-size: 20px;
@@ -186,10 +186,10 @@ font-size: 20px;
 }
 #image{
     width: 350px;
-    transition: transform 0.5s;
+    transition: transform 0.3s;
 }
 #image:hover {
-    transform: rotateY(360deg);
+    transform: rotateY(180deg);
 }
 .features{
     width: 100%;
