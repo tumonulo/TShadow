@@ -10,6 +10,7 @@ body{
     align-items: center;
     justify-content: space-around;
     background-color: rgb(24, 28, 30);
+    z-index: 2;
 
 }
 .firstDiv2{
@@ -134,8 +135,10 @@ body{
     display: flex;
     color: white;
     font-family: "Merriweather", sans-serif;
-    font-size: 20px;
+    font-size: 19px;
     margin-top: 11px;
+    margin-left: 3px;
+
 }
 .secondDivText2{
     width: auto;
@@ -155,6 +158,7 @@ body{
     color: white;
     font-size: 20px;
     margin-right: 15px;
+    margin-left: 3px;
 }
 #invitethebot:hover{
 background-color: white;
@@ -187,6 +191,7 @@ font-size: 20px;
 #image{
     width: 350px;
     transition: transform 0.5s;
+    z-index: 1;
 }
 #image:hover {
     animation: imager 0.5s forwards;
@@ -196,7 +201,7 @@ font-size: 20px;
         transform: rotateY(0deg);
     }
     to {
-        transform: rotateY(180deg);
+        transform: rotateY(360deg);
     }
 }
 .features{
