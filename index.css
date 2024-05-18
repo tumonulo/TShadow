@@ -107,7 +107,7 @@ body{
     align-items: flex-start;
     flex-direction: column;
     justify-content: center;
-    margin-left: 180px;
+    margin-left: 190px;
 
 
 }
@@ -134,7 +134,7 @@ body{
     display: flex;
     color: white;
     font-family: "Merriweather", sans-serif;
-    font-size: 22px;
+    font-size: 20px;
     margin-top: 11px;
 }
 .secondDivText2{
@@ -150,7 +150,7 @@ body{
     border-radius: 10px;
     padding: 13px;
     height: auto;
-    width: 160px;
+    width: 200px;
     background-color: rgb(2, 77, 151);
     color: white;
     font-size: 20px;
@@ -167,7 +167,7 @@ border-style: solid;
 border-radius: 10px;
 padding: 13px;
 height: auto;
-width: 160px;
+width: 200px;
 background-color: transparent;
 color: white;
 font-size: 20px;
@@ -181,15 +181,23 @@ font-size: 20px;
     height: 627px;
     display: flex;
     align-items: center;
-    margin-left: 150px;
+    margin-left: 145px;
     perspective: 1000px;
 }
 #image{
     width: 350px;
-    transition: transform 0.3s;
+    transition: transform 0.5s;
 }
 #image:hover {
-    transform: rotateY(180deg);
+    animation: imager 0.5s forwards;
+}
+@keyframes imager {
+    from {
+        transform: rotateY(0deg);
+    }
+    to {
+        transform: rotateY(180deg);
+    }
 }
 .features{
     width: 100%;
