@@ -79,7 +79,8 @@ body{
 #Dashboard{
     font-size: 20px;
     border-radius: 10px;
-    width: 270px;
+    width: auto;
+    padding: 10px;
     height: 60px;
     background-color: rgba(1, 52, 107, 0.4);
     font-family: "Verdana", sans-serif;
@@ -106,7 +107,7 @@ body{
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    margin-left: 200px;
+    margin-left: 180px;
 
 
 }
@@ -125,7 +126,7 @@ body{
     display: flex;
     color: white;
     font-family: "Blogger Sans", sans-serif;
-    font-size: 40px;
+    font-size: 60px;
 }
 .secondDivText12{
     width: auto;
@@ -133,19 +134,43 @@ body{
     display: flex;
     color: white;
     font-family: "Merriweather", sans-serif;
-    font-size: 22px;
+    font-size: 30px;
 }
 .secondDivText2{
     width: auto;
     height: auto;
 
 }
+#invitethebot{
+    border: 3px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    height: auto;
+    width: auto;
+    background-color: rgb(2, 77, 151);
+    color: white;
+    font-size: 33px;
+}
+#supportserver{
+border: 3px;
+border-color: white;
+border-style: solid;
+border-radius: 10px;
+padding: 10px;
+height: auto;
+width: auto;
+background-color: transparent;
+color: white;
+font-size: 33px;
+}
 .secondDivImage{
     width: auto;
     height: 627px;
     display: flex;
     align-items: center;
-    margin-left: 300px;
+    margin-left: 290px;
 }
 .features{
     width: 100%;
