@@ -105,7 +105,7 @@ body{
     align-items: center;
     justify-content: flex-start;
     background: linear-gradient(rgb(24, 28, 30), rgb(49, 54, 59));
-    margin-top: 88px;
+    padding-top: 88px;
 }
 .secondDivText{
     width: auto;
