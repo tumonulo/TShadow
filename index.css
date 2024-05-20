@@ -239,6 +239,7 @@ transition-property: all 2s;
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 #commands1{
 margin-top: 50px;
