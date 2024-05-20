@@ -236,7 +236,7 @@ font-size: 40px;
 #commands2{
 margin-bottom: 80px;
 height: auto;
-width: 100px;
+width: 150px;
 padding: 15px;
 background-color: transparent;
 border: 2px;
@@ -244,7 +244,7 @@ border-color: white;
 border-style: solid;
 border-radius: 5px;
 color: white;
-font-size: 14px;
+font-size: 20px;
 }
 #commands2:hover{
     background-color: white;
