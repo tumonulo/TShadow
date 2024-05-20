@@ -16,9 +16,9 @@
         <div class="firstDiv2">
             <input type="button" value="Home" id="Home" class="firstDivButton" onclick="document.getElementById('secondDiv').scrollIntoView({ behavior: 'smooth' });">
             <input type="button" value="Features" id="Features" class="firstDivButton">
-            <input type="button" value="Invite" id="Invite" class="firstDivButton">
+            <input type="button" value="Invite" id="Invite" class="firstDivButton" onclick="document.getElementById('invitesignal').scrollIntoView({ behavior: 'smooth' });">
             <input type="button" value="Premium" id="Premium" class="firstDivButton">
-            <input type="button" value="Commands" id="Commands" class="firstDivButton">
+            <input type="button" value="Commands" id="Commands" class="firstDivButton" onclick="document.getElementById('commandssignal').scrollIntoView({ behavior: 'smooth' });">
             <input type="button" value="Partners" id="Partners" class="firstDivButton">
             <input type="button" value="Support" id="Support" class="firstDivButton">
             <input type="button" value="FAQ" id="FAQ" class="firstDivButton">
@@ -55,13 +55,18 @@
         Features
         </div>
         <div class="invite">
-        Invite
+            <div id="invite1">
+                <div id="invitesignal"></div>
+                INVITE OUR BOT NOW
+            </div>
+            <input type="button" value="Invite" id="invite2" onclick="invite2()">
         </div>
         <div class="premium">
         Premium
         </div>
         <div class="commands" id="commands">
             <div id="commands1">
+                <div id="commandssignal"></div>
                 CHECK OUT OUR COMMANDS
             </div>
                 <input type="button" value="Commands" id="commands2" onclick="commands2()">

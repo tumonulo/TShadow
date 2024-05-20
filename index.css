@@ -211,6 +211,32 @@ transition-property: all 0.5s;
     height: 200px;
     background-color: rgb(67, 75, 81);
     color: white;
+    position: relative;
+}
+#invitesignal{
+    top: 88px;
+    visibility: hidden;
+    position: absolute;
+}
+#invite1{
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+#invite2{
+    height: auto;
+    width: 160px;
+    padding: 15px;
+    background-color: transparent;
+    border: 2px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+#invite2:hover{
+    background-color: white;
+    color: rgb(2, 77, 151);
 }
 .premium{
     width: 100%;
@@ -227,6 +253,12 @@ transition-property: all 0.5s;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    position: relative;
+}
+#commandssignal{
+    top: 88px;
+    visibility: hidden;
+    position: absolute;
 }
 #commands1{
 margin-bottom: 40px;
