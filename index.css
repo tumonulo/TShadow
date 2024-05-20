@@ -163,12 +163,12 @@ body{
     font-size: 18px;
     margin-right: 15px;
     margin-left: 3px;
-    transition-property: all 2s ease;
+    transition-property: all 0.5s;
 }
 #invitethebot:hover{
 background-color: white;
 color: rgb(35, 40, 43);
-transition: none;
+transition-property: all 0.5s;
 }
 #supportserver{
 border: 2px;
@@ -181,12 +181,12 @@ width: 200px;
 background-color: transparent;
 color: white;
 font-size: 18px;
-transition-property: all 2s;
+transition-property: all 0.5s;
 }
 #supportserver:hover{
     background-color: white;
     color: rgb(2, 77, 151);
-    transition: none;
+    transition-property: all 0.5s;
 }
 .secondDivImage{
     width: auto;
@@ -198,20 +198,7 @@ transition-property: all 2s;
 }
 #image{
     width: 350px;
-    transition: transform 0.5s;
-    animation-fill-mode: forwards;
     z-index: 1;
-}
-#image:hover {
-    animation: running 0.5s forwards;
-}
-@keyframes running {
-    from {
-        transform: rotateY(0deg);
-    }
-    to {
-        transform: rotateY(180deg);
-    }
 }
 .features{
     width: 100%;
@@ -258,6 +245,10 @@ border-style: solid;
 border-radius: 5px;
 color: white;
 font-size: 14px;
+}
+#commands2:hover{
+    background-color: white;
+    color: rgb(2, 77, 151);
 }
 .partners{
     width: 100%;
