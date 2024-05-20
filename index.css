@@ -242,21 +242,22 @@ transition-property: all 2s;
     flex-direction: column;
 }
 #commands1{
-margin-top: 50px;
-margin-bottom: 12px;
+margin-top: 80px;
+margin-bottom: 20px;
 font-size: 40px;
 }
 #commands2{
-margin-bottom: 50px;
+margin-bottom: 80px;
 height: auto;
-width: 50;
+width: 100px;
 padding: 15px;
 background-color: transparent;
-border: 3px;
+border: 2px;
 border-color: white;
 border-style: solid;
 border-radius: 5px;
 color: white;
+font-size: 14px;
 }
 .partners{
     width: 100%;
