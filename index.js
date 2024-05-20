@@ -9,6 +9,9 @@ function invitethebot() {
 function supportserver() {
     window.location.href = "https://discord.gg/HGZTRa3TMf";
 }
+function commands2() {
+    window.location.href = "https://tumonulo.github.io/TShadow/commands/";
+}
 function Dashboard() {
     window.location.href = "https://tumonulo.github.io/TShadow/dashboard";
 }
