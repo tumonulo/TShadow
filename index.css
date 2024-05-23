@@ -98,7 +98,7 @@ body{
     height: auto;
 }
 .secondDiv{
-    width: 100%;
+    width: 1500px;
     height: 733px;
     margin: 0 auto;
     display: flex;
@@ -327,6 +327,29 @@ font-size: 20px;
     background-color: rgb(67, 75, 81);
     color: white;
     position: relative;
+}
+#support1{
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+#support2{
+    width: 100%;
+    height: auto;
+}
+#support3{
+height: auto;
+width: 160px;
+padding: 15px;
+background-color: transparent;
+border: 2px;
+border-color: white;
+border-style: solid;
+border-radius: 5px;
+color: white;
+font-size: 20px;
+}
+#support4{
+    
 }
 #FAQsignal{
     bottom: 88px;
