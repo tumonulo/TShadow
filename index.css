@@ -97,6 +97,10 @@ body{
     width: 100%;
     height: auto;
 }
+#backgoundseconddiv{
+    background: linear-gradient(rgb(24, 28, 30), rgb(49, 54, 59));
+    width: 100%;
+}
 .secondDiv{
     width: 1500px;
     height: 733px;
@@ -104,7 +108,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background: linear-gradient(rgb(24, 28, 30), rgb(49, 54, 59));
     position: relative;
 }
 .secondDivText{
