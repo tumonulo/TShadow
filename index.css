@@ -118,6 +118,7 @@ body{
     align-items: flex-start;
     flex-direction: column;
     justify-content: center;
+    margin-left: 12vw;
 
 
 }
@@ -197,6 +198,8 @@ transition-property: 0.5s all;
     display: flex;
     align-items: center;
     perspective: 1000px;
+    margin-left: 12vw;
+
 }
 #image{
     width: 350px;
